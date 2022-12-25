@@ -2312,7 +2312,7 @@ window.onload = function () {
 
 // Effect controls	
 
-
+/*
 document.getElementById('nightsky').addEventListener( 'click', function () {
 	DISABLE_TRAILS = !DISABLE_TRAILS;
 });
@@ -2320,7 +2320,7 @@ document.getElementById('soundtoggle').addEventListener( 'click', function () {
 	toggleSound();
 });			
 
-
+*/
 
 document.getElementById('crackleShell').addEventListener( 'click', function () {
 
