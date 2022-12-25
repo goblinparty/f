@@ -2350,7 +2350,7 @@ document.getElementById('horsetailShell').addEventListener( 'click', function ()
 document.getElementById('palmShell').addEventListener( 'click', function () {
 
 	launchManual(palmShell);
-});an
+});
 document.getElementById('ringShell').addEventListener( 'click', function () {
 
 	launchManual(ringShell);
